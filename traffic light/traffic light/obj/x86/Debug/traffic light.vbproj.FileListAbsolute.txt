@@ -1,0 +1,9 @@
+F:\coding\visual basic\traffic light\traffic light\bin\Debug\traffic light.exe
+F:\coding\visual basic\traffic light\traffic light\bin\Debug\traffic light.pdb
+F:\coding\visual basic\traffic light\traffic light\bin\Debug\traffic light.xml
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\traffic light.vbproj.GenerateResource.Cache
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\traffic light.exe
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\traffic light.xml
+F:\coding\visual basic\traffic light\traffic light\obj\x86\Debug\traffic light.pdb

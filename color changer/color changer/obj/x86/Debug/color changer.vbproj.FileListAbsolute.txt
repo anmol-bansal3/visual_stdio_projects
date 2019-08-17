@@ -1,0 +1,9 @@
+F:\coding\visual basic\color changer\color changer\bin\Debug\color changer.exe
+F:\coding\visual basic\color changer\color changer\bin\Debug\color changer.pdb
+F:\coding\visual basic\color changer\color changer\bin\Debug\color changer.xml
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\color changer.vbproj.GenerateResource.Cache
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\color changer.exe
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\color changer.xml
+F:\coding\visual basic\color changer\color changer\obj\x86\Debug\color changer.pdb

@@ -1,0 +1,15 @@
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo_box_practice.Form1.resources
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo_box_practice.Resources.resources
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo box practice.vbproj.GenerateResource.Cache
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\bin\Debug\Combo box practice.exe
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\bin\Debug\Combo box practice.pdb
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\bin\Debug\Combo box practice.xml
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo box practice.exe
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo box practice.xml
+C:\Users\bansa\AppData\Local\Temporary Projects\Combo box practice\obj\x86\Debug\Combo box practice.pdb
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo box practice.exe
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo box practice.xml
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo box practice.pdb
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo_box_practice.Form1.resources
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo_box_practice.Resources.resources
+F:\coding\visual basic\Combo box practice\Combo box practice\obj\x86\Debug\Combo box practice.vbproj.GenerateResource.Cache
